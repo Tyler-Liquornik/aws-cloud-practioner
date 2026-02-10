@@ -1,0 +1,7 @@
+{
+  "disablePush": false,
+  "splitCommitAndPush": false,
+  "autoStage": true,
+  "autoPush": true,
+  "pullBeforePush": true
+}

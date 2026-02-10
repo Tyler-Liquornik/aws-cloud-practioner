@@ -1,0 +1,24 @@
+{
+  "technologies/operating-systems.md": {
+    "be7d93c8bdbf9ac9a205f4fc82b9c313": {
+      "position": "center",
+      "width": "461px",
+      "height": "322px",
+      "wrap": false
+    }
+  },
+  "technologies/langchain-agents.md": {
+    "f1174d2d3ab69290186e0c0a62e89dd6": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    },
+    "dd4ccdffde1be712e8ebaf481058ea6a": {
+      "position": "center",
+      "width": "",
+      "height": "",
+      "wrap": false
+    }
+  }
+}

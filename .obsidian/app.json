@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "/images",
+  "attachmentFolderPath": "attachments",
+  "newLinkFormat": "relative"
+}
