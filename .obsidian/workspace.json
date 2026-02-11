@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Commit.md",
+                "file": "what-is-cloud-computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Commit"
+              "title": "what-is-cloud-computing"
+            }
+          },
+          {
+            "id": "f1153f4b03c2691e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/what-is-cloud-computing/availability-zones.png"
+              },
+              "icon": "lucide-image",
+              "title": "availability-zones"
             }
           }
         ]
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Commit.md",
+                "file": "what-is-cloud-computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test Commit"
+              "title": "Backlinks for what-is-cloud-computing"
             }
           },
           {
@@ -113,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Commit.md",
+                "file": "what-is-cloud-computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test Commit"
+              "title": "Outgoing links from what-is-cloud-computing"
             }
           },
           {
@@ -156,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Commit.md",
+                "file": "what-is-cloud-computing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Commit"
+              "title": "Outline of what-is-cloud-computing"
             }
           }
         ]
@@ -186,7 +198,14 @@
   },
   "active": "f75f65b0bed1a370",
   "lastOpenFiles": [
-    "Test Commit.md",
+    "images/what-is-cloud-computing/availability-zones.png",
+    "what-is-cloud-computing.md",
+    "images/what-is-cloud-computing/shared-responsibility-model.png",
+    "images/what-is-cloud-computing/service-models.png",
+    "images/what-is-cloud-computing/client-server-model.png",
+    "images/what-is-cloud-computing",
+    "images/Untitled.md",
+    "images",
     "README.md"
   ]
 }
