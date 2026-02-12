@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IAM.md",
+                "file": "What Is Cloud Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IAM"
+              "title": "What Is Cloud Computing"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM.md",
+                "file": "What Is Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IAM"
+              "title": "Backlinks for What Is Cloud Computing"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM.md",
+                "file": "What Is Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IAM"
+              "title": "Outgoing links from What Is Cloud Computing"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM.md",
+                "file": "What Is Cloud Computing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IAM"
+              "title": "Outline of What Is Cloud Computing"
             }
           }
         ]
@@ -201,8 +201,8 @@
   },
   "active": "f1153f4b03c2691e",
   "lastOpenFiles": [
-    "images/iam/last-accessed.png",
     "IAM.md",
+    "images/iam/last-accessed.png",
     "images/iam/credentials-report.png",
     "images/what-is-cloud-computing/availability-zones.png",
     "images/iam/creating-a-user.png",

@@ -4,10 +4,10 @@
 Recall the client server model, where clients and servers communicate over some network. This is the basis of the internet.
 
 **Network**: cables routers, and servers connected with each other
-**Router**: A networking device that forwards data packets % networks. They know where to send packets across the internet
+**Router**: A networking device that forwards data packets between networks. They know where to send packets across the internet
 **Switch**: takes a packet and sends it to the correct machine on the network
 
-![[images/what-is-cloud-computing/client-server-model.png]]
+![Client Server Model](images/what-is-cloud-computing/client-server-model.png)
 
 
 There are problems with hosing your own servers at home that people/businesses don't want to deal with
@@ -49,7 +49,7 @@ Of course, the solution is to externalize all this, letting someone else deal wi
 **PaaS**: Platform as a Service removes the need to manage the underlying infrastructre. This allows the customer on deployment and management of applications.
 **SaaS**: Software as a Service is a complete product ran and managed by the service provider
 
-![[images/what-is-cloud-computing/service-models.png]]
+![Cloud Service Models](images/what-is-cloud-computing/service-models.png)
 
 #### AWS Pricing Model
 
@@ -69,7 +69,7 @@ Choose a region for a new app based on:
 
 Each region has many **availability zones**, usually 3, but a minimum of 3 and max of 6. Each availability zone has one or more data centres with its own networking & connectivity. Each AZ is connected with high bandwidth and ultra low latency to form a region
 
-![[images/what-is-cloud-computing/availability-zones.png]]
+![Availability Zones](images/what-is-cloud-computing/availability-zones.png)
 
 AWS also has 400+ **Points of Presence** (400+ Edge Locations, 10+ regional caches) all over the world. These are smaller edge sites that sit closer to users than full regions. Instead of running full compute stacks like a region does, they cache and deliver content with further reduced latency so every request doesn't have to go back to a region.
 
@@ -79,4 +79,4 @@ AWS also has 400+ **Points of Presence** (400+ Edge Locations, 10+ regional cach
 
 **You secure what’s in the cloud**: your data, applications, configuration, operating systems, firewall rules, encryption settings, and traffic protection.
 
-![[images/what-is-cloud-computing/shared-responsibility-model.png]]
+![Shared Responsibility Model](images/what-is-cloud-computing/shared-responsibility-model.png)
