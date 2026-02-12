@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What Is Cloud Computing.md",
+                "file": "AWS EC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What Is Cloud Computing"
-            }
-          },
-          {
-            "id": "f1153f4b03c2691e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "What Is Cloud Computing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "What Is Cloud Computing"
+              "title": "AWS EC2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What Is Cloud Computing.md",
+                "file": "AWS EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for What Is Cloud Computing"
+              "title": "Backlinks for AWS EC2"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What Is Cloud Computing.md",
+                "file": "AWS EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from What Is Cloud Computing"
+              "title": "Outgoing links from AWS EC2"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What Is Cloud Computing.md",
+                "file": "AWS EC2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of What Is Cloud Computing"
+              "title": "Outline of AWS EC2"
             }
           }
         ]
@@ -199,20 +184,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1153f4b03c2691e",
+  "active": "811b0ca2037305a8",
   "lastOpenFiles": [
-    "IAM.md",
-    "images/iam/last-accessed.png",
-    "images/iam/credentials-report.png",
-    "images/what-is-cloud-computing/availability-zones.png",
-    "images/iam/creating-a-user.png",
-    "images/iam/creating-a-role.png",
-    "images/iam/cloudshell.png",
+    "images/ec2/price-comparison-table.png",
+    "images/ec2/ec2-instance-security.png",
+    "AWS IAM.md",
     "What Is Cloud Computing.md",
-    "images/iam/security-credentials.png",
-    "images/iam/password-policy.png",
-    "images/iam/access-denied.png",
-    "images/iam/policy-inheritance.png",
+    "AWS EC2.md",
+    "images/ec2/ec2-instance-connect.png",
+    "images/ec2/ssh-types.png",
+    "Pasted image 20260212161111.png",
+    "Pasted image 20260212161041.png",
+    "Pasted image 20260212161018.png",
+    "Pasted image 20260212161010.png",
+    "Pasted image 20260212161105.png",
+    "Pasted image 20260212161038.png",
+    "images/ec2/security-group-by-IP.png",
+    "images/ec2",
     "README.md",
     "images/iam",
     "images/what-is-cloud-computing",

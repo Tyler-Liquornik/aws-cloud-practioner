@@ -79,4 +79,4 @@ AWS also has 400+ **Points of Presence** (400+ Edge Locations, 10+ regional cach
 
 **You secure what’s in the cloud**: your data, applications, configuration, operating systems, firewall rules, encryption settings, and traffic protection.
 
-![Shared Responsibility Model](images/what-is-cloud-computing/shared-responsibility-model.png)
+![[images/what-is-cloud-computing/shared-responsibility-model.png]]
