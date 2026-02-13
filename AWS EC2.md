@@ -189,7 +189,7 @@ There are a few different ways to pay for EC2 that will optimize pricing based o
 	- Can be bought and sold in the open market if you don't want it anymore
 	- Can also be convertible, to change the instance class, scope, OS, and  tenancy, for less discount
 - **Savings Plan Instances (1 or 3 Year Term)**: Commitment to an amount of usage over a long workload
-	- Up to 72% discount compared to On-demandmy bad
+	- Up to 72% discount compared to On-demand
 	- Commit to a certain amount of usage (e.g., $10/hour for 1 or 3 years)
 	- Usage beyond the commitment is billed as On-demand
 	- Locked to a specific instance class and scope, but flexible across instance size, OS, and tenancy

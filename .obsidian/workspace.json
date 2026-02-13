@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS EC2.md",
+                "file": "EC2 Instance Storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AWS EC2"
+              "title": "EC2 Instance Storage"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS EC2.md",
+                "file": "EC2 Instance Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AWS EC2"
+              "title": "Backlinks for EC2 Instance Storage"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS EC2.md",
+                "file": "EC2 Instance Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AWS EC2"
+              "title": "Outgoing links from EC2 Instance Storage"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS EC2.md",
+                "file": "EC2 Instance Storage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AWS EC2"
+              "title": "Outline of EC2 Instance Storage"
             }
           }
         ]
@@ -184,27 +184,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "811b0ca2037305a8",
+  "active": "f75f65b0bed1a370",
   "lastOpenFiles": [
+    "What Is Cloud Computing.md",
+    "EC2 Instance Storage.md",
+    "AWS EC2.md",
+    "AWS IAM.md",
+    "images/ec2-storage/efs-ia.png",
+    "images/ec2-storage/efs-ia.png",
+    "images/ec2-storage/ebs-vs-efs.png",
+    "images/ec2-storage/ec2-image-builder.png",
+    "images/ec2-storage/ebs-snapshot.png",
+    "images/ec2-storage/default-ebs-volume.png",
+    "().md",
+    "images/ec2-storage",
+    "images/ec2-instance-storage.md",
     "images/ec2/price-comparison-table.png",
     "images/ec2/ec2-instance-security.png",
-    "AWS IAM.md",
-    "What Is Cloud Computing.md",
-    "AWS EC2.md",
     "images/ec2/ec2-instance-connect.png",
     "images/ec2/ssh-types.png",
-    "Pasted image 20260212161111.png",
-    "Pasted image 20260212161041.png",
-    "Pasted image 20260212161018.png",
-    "Pasted image 20260212161010.png",
-    "Pasted image 20260212161105.png",
-    "Pasted image 20260212161038.png",
-    "images/ec2/security-group-by-IP.png",
     "images/ec2",
     "README.md",
     "images/iam",
     "images/what-is-cloud-computing",
-    "images/Untitled.md",
     "images"
   ]
 }

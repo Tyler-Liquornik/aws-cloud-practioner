@@ -1,4 +1,4 @@
-i**IAM** (Identity and Access Management) is a *global service* meaning that it is not associated with any particular AWS region. IAM manages the **root account** (the one you logged in with) which is created by default. This information should NOT be shared. We should create **users** right away and ***we should not use the root user, as is best practice***.
+**IAM** (Identity and Access Management) is a *global service* meaning that it is not associated with any particular AWS region. IAM manages the **root account** (the one you logged in with) which is created by default. This information should NOT be shared. We should create **users** right away and ***we should not use the root user, as is best practice***.
 
 #### Users, Groups, and Policies
 
