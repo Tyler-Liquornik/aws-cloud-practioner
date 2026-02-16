@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9. Deploying & Managing Infrastructure at Scale.md",
+                "file": "10. Global Infrastructure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Deploying & Managing Infrastructure at Scale"
+              "title": "10. Global Infrastructure"
+            }
+          },
+          {
+            "id": "35c1c8110c56fb44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Global Infrastructure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Global Infrastructure"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. Deploying & Managing Infrastructure at Scale.md",
+                "file": "10. Global Infrastructure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9. Deploying & Managing Infrastructure at Scale"
+              "title": "Backlinks for 10. Global Infrastructure"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. Deploying & Managing Infrastructure at Scale.md",
+                "file": "10. Global Infrastructure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9. Deploying & Managing Infrastructure at Scale"
+              "title": "Outgoing links from 10. Global Infrastructure"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. Deploying & Managing Infrastructure at Scale.md",
+                "file": "10. Global Infrastructure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9. Deploying & Managing Infrastructure at Scale"
+              "title": "Outline of 10. Global Infrastructure"
             }
           }
         ]
@@ -184,32 +199,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f75f65b0bed1a370",
+  "active": "811b0ca2037305a8",
   "lastOpenFiles": [
-    "8. Other Compute Services.md",
+    "images/global-infrastructure/global-architectures-2.png",
+    "images/global-infrastructure/global-architectures-1.png",
+    "images/global-infrastructure/local-zones.png",
+    "Pasted image 20260216122921.png",
+    "images/global-infrastructure/local-zone.png",
+    "images/global-infrastructure/global-accelerator.png",
+    "images/global-infrastructure/cloudfront-distribution.png",
+    "10. Global Infrastructure.md",
+    "images/global-infrastructure/s3-transfer-acceleration.png",
+    "images/global-infrastructure/cloudfront-payment-plans.png",
+    "6. AWS S3.md",
     "9. Deploying & Managing Infrastructure at Scale.md",
+    "images/global-infrastructure",
+    "images/global-infrastructure/cloudfront-architecture.png",
+    "2. AWS IAM.md",
+    "3. AWS EC2.md",
+    "4. EC2 Instance Storage.md",
+    "5. Load Balancing & Auto Scaling.md",
+    "7. Databases & Analytics.md",
+    "8. Other Compute Services.md",
+    "1. What Is Cloud Computing.md",
     "images/deploying-and-managing-infrastructure-at-scale",
     "images/Untitled.md",
     "images/deploying-and-managing-infrastructure-at-scale/cloudformation-resource.png",
-    "3. AWS EC2.md",
-    "2. AWS IAM.md",
-    "5. Load Balancing & Auto Scaling.md",
-    "images/other-compute-services/lambda-test.png",
-    "7. Databases & Analytics.md",
-    "images/other-compute-services/lambda-dashboard.png",
     "images/other-compute-services",
-    "images/databases-and-analytics/dynamodb-global-tables.png",
-    "images/databases-and-analytics/add-item-to-dynamodb-table.png",
-    "images/databases-and-analytics/dynamodb-structure.png",
-    "images/databases-and-analytics/elasticache-architecture.png",
-    "images/databases-and-analytics/rds-mysql-database.png",
-    "6. AWS S3.md",
-    "images/databases-and-analytics/aurora-serverless.png",
-    "images/databases-and-analytics/rds-solution-architecture.png",
     "images/databases-and-analytics",
-    "4. EC2 Instance Storage.md",
     "images/s3",
-    "1. What Is Cloud Computing.md",
     "images/elb-and-asg",
     "().md",
     "images/ec2-storage",
@@ -217,7 +235,6 @@
     "images/ec2",
     "README.md",
     "images/iam",
-    "images/what-is-cloud-computing",
-    "images"
+    "images/what-is-cloud-computing"
   ]
 }
