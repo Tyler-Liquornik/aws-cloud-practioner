@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Global Infrastructure.md",
+                "file": "11. Cloud Integrations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Global Infrastructure"
+              "title": "11. Cloud Integrations"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Global Infrastructure.md",
+                "file": "11. Cloud Integrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 10. Global Infrastructure"
+              "title": "Backlinks for 11. Cloud Integrations"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Global Infrastructure.md",
+                "file": "11. Cloud Integrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 10. Global Infrastructure"
+              "title": "Outgoing links from 11. Cloud Integrations"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Global Infrastructure.md",
+                "file": "11. Cloud Integrations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 10. Global Infrastructure"
+              "title": "Outline of 11. Cloud Integrations"
             }
           }
         ]
@@ -199,8 +199,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "811b0ca2037305a8",
+  "active": "35c1c8110c56fb44",
   "lastOpenFiles": [
+    "images/cloud-integrations/pub-sub-model.png",
+    "images/cloud-integrations/kinesis.png",
+    "images/cloud-integrations/sqs-queue-design.png",
+    "10. Global Infrastructure.md",
+    "11. Cloud Integrations.md",
+    "images/cloud-integrations/sqs-queue.png",
+    "images/cloud-integrations",
     "images/global-infrastructure/global-architectures-2.png",
     "images/global-infrastructure/global-architectures-1.png",
     "images/global-infrastructure/local-zones.png",
@@ -208,13 +215,9 @@
     "images/global-infrastructure/local-zone.png",
     "images/global-infrastructure/global-accelerator.png",
     "images/global-infrastructure/cloudfront-distribution.png",
-    "10. Global Infrastructure.md",
-    "images/global-infrastructure/s3-transfer-acceleration.png",
-    "images/global-infrastructure/cloudfront-payment-plans.png",
     "6. AWS S3.md",
     "9. Deploying & Managing Infrastructure at Scale.md",
     "images/global-infrastructure",
-    "images/global-infrastructure/cloudfront-architecture.png",
     "2. AWS IAM.md",
     "3. AWS EC2.md",
     "4. EC2 Instance Storage.md",
@@ -224,7 +227,6 @@
     "1. What Is Cloud Computing.md",
     "images/deploying-and-managing-infrastructure-at-scale",
     "images/Untitled.md",
-    "images/deploying-and-managing-infrastructure-at-scale/cloudformation-resource.png",
     "images/other-compute-services",
     "images/databases-and-analytics",
     "images/s3",
@@ -234,7 +236,6 @@
     "images/ec2-instance-storage.md",
     "images/ec2",
     "README.md",
-    "images/iam",
-    "images/what-is-cloud-computing"
+    "images/iam"
   ]
 }
