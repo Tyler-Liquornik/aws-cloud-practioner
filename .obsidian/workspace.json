@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f75f65b0bed1a370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Global Infrastructure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Global Infrastructure"
-            }
-          },
-          {
             "id": "35c1c8110c56fb44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. Cloud Monitoring.md",
+                "file": "13. VPC & Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Cloud Monitoring"
+              "title": "13. VPC & Networking"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12. Cloud Monitoring.md",
+                "file": "13. VPC & Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 12. Cloud Monitoring"
+              "title": "Backlinks for 13. VPC & Networking"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12. Cloud Monitoring.md",
+                "file": "13. VPC & Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 12. Cloud Monitoring"
+              "title": "Outgoing links from 13. VPC & Networking"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12. Cloud Monitoring.md",
+                "file": "13. VPC & Networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12. Cloud Monitoring"
+              "title": "Outline of 13. VPC & Networking"
             }
           }
         ]
@@ -199,28 +184,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35c1c8110c56fb44",
+  "active": "811b0ca2037305a8",
   "lastOpenFiles": [
+    "images/vpc-and-networking/transit-gateway.png",
+    "11. Cloud Integrations.md",
+    "12. Cloud Monitoring.md",
+    "13. VPC & Networking.md",
+    "Pasted image 20260217153004.png",
+    "10. Global Infrastructure.md",
+    "images/default-aws-vpc/default-aws-vpc.png 1.md",
+    "images/vpc-and-networking/vpc-diagram.png",
+    "images/default-aws-vpc/default-aws-vpc.png.md",
+    "images/default-aws-vpc",
+    "images/vpc-and-networking/default-aws-vpc.png",
+    "Pasted image 20260217143722.png",
+    "images/vpc-and-networking",
     "images/cloud-monitoring/xray-visualization.png",
     "images/cloud-monitoring/cloudtrail-event-history.png",
-    "11. Cloud Integrations.md",
-    "10. Global Infrastructure.md",
-    "12. Cloud Monitoring.md",
     "images/cloud-monitoring/eventbridge-rules.png",
     "images/cloud-monitoring/eventbridge-rules.png",
     "images/cloud-monitoring/log-stream.png",
     "images/cloud-monitoring/cloudwatch-metrics.png",
-    "images/cloud-monitoring/billing-metric.png",
     "7. Databases & Analytics.md",
     "8. Other Compute Services.md",
     "9. Deploying & Managing Infrastructure at Scale.md",
     "images/cloud-monitoring",
     "2. AWS IAM.md",
     "Untitled",
-    "images/cloud-integrations/pub-sub-model.png",
-    "images/cloud-integrations/kinesis.png",
-    "images/cloud-integrations/sqs-queue-design.png",
-    "images/cloud-integrations/sqs-queue.png",
     "images/cloud-integrations",
     "6. AWS S3.md",
     "images/global-infrastructure",
@@ -233,9 +223,7 @@
     "images/other-compute-services",
     "images/databases-and-analytics",
     "images/s3",
-    "images/elb-and-asg",
     "().md",
-    "images/ec2-storage",
     "images/ec2-instance-storage.md",
     "README.md"
   ]
