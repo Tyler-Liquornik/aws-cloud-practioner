@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. AWS EC2.md",
+                "file": "17. Advanced Identity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. AWS EC2"
+              "title": "17. Advanced Identity"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. AWS EC2.md",
+                "file": "17. Advanced Identity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. AWS EC2"
+              "title": "Backlinks for 17. Advanced Identity"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. AWS EC2.md",
+                "file": "17. Advanced Identity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3. AWS EC2"
+              "title": "Outgoing links from 17. Advanced Identity"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. AWS EC2.md",
+                "file": "17. Advanced Identity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. AWS EC2"
+              "title": "Outline of 17. Advanced Identity"
             }
           }
         ]
@@ -186,10 +186,14 @@
   },
   "active": "35c1c8110c56fb44",
   "lastOpenFiles": [
+    "16. Account Management, Billing & Support.md",
+    "17. Advanced Identity.md",
+    "images/advanced-identity",
+    "images/advanced-identity/cognito-example.png",
+    "3. AWS EC2.md",
+    "Untitled",
     "4. EC2 Instance Storage.md",
     "5. Load Balancing & Auto Scaling.md",
-    "16. Account Management, Billing & Support.md",
-    "3. AWS EC2.md",
     "images/account-management-billing-and-support/billing-dashboard.png",
     "15. Machine Learning.md",
     "images/account-management-billing-and-support/organizational-units.png",
@@ -218,12 +222,9 @@
     "images/vpc-and-networking/default-aws-vpc.png",
     "Pasted image 20260217143722.png",
     "images/vpc-and-networking",
-    "images/cloud-monitoring/xray-visualization.png",
     "images/cloud-monitoring",
-    "Untitled",
     "images/cloud-integrations",
     "images/global-infrastructure",
-    "images/deploying-and-managing-infrastructure-at-scale",
     "images/Untitled.md",
     "().md",
     "images/ec2-instance-storage.md",
